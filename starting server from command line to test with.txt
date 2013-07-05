@@ -1,0 +1,13 @@
+
+C:\windows\system32>cd C:\Users\en0jp4u\Documents\Visual Studio 2012\Projects\edu\WCF Fundamentals\ChatSolution\ConsoleHostConfig\bin\Debug
+
+C:\Users\en0jp4u\Documents\Visual Studio 2012\Projects\edu\WCF Fundamentals\ChatSolution\ConsoleHostConfig\bin\Debug>ConsoleHostConfig.exe
+EvalServiceLibrary.EvalService is up and running with these endpoints:
+http://localhost:8080/evals/basicconfig
+http://localhost:8080/evals/wsconfig
+net.tcp://localhost:8089/evals/mex
+http://localhost:8080/evals/mex
+
+
+
+C:\Users\en0jp4u\Documents\Visual Studio 2012\Projects\edu\WCF Fundamentals\ChatSolution\ConsoleHostConfig\bin\Debug>

@@ -49,6 +49,7 @@ namespace Client
             // channel client - integrated IClientChannel
             ///////////////////////////////////////////////////
             ChannelFactory<IEvalServiceChannel> factory3 = new ChannelFactory<IEvalServiceChannel>("BasicHttpBinding_IEvalService");
+
             IEvalServiceChannel channel2 = factory3.CreateChannel();
 
             try
